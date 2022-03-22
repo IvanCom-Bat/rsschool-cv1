@@ -11,10 +11,22 @@ Studied programing at the universite.
 ---
 ## Example of my code:
 ```sh
-function numberToString(num) {
-  return String(num);
-  // Return a string of the number here!
+function elementPositionComp(elementComputer, nameElem){
+   
+    let textElementComputer = elementComputer.firstChild.textContent;
+   
+    let flag = Number(textElementComputer);
+            for(let index = 0; index < Number(textElementComputer); index++){
+           
+            if( Number(textElementComputer) > 0){            
+            flagElement++;
+                elementComputer.firstChild.textContent = --flag;
+            positionElementRandom(nameElem)
+            
+            }
 }
+}
+
 ```
 ## My project:
 [JS30-1](https://rolling-scopes-school.github.io/ivancom-bat-JSFEPRESCHOOL/js30-1/#)
