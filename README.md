@@ -1,1 +1,1 @@
-https://ivancom-bat.github.io/rsschool-cv1/cv
+https://ivancom-bat.github.io/rsschool-cv/cv
