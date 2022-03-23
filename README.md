@@ -1,1 +1,1 @@
-# rsschool-cv1
+https://ivancom-bat.github.io/rsschool-cv/cv
